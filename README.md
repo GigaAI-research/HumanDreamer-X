@@ -5,7 +5,7 @@
 </div>
 
  
-## [Project Page](https://humandreamer-x.github.io/) | [Paper]()
+## [Project Page](https://humandreamer-x.github.io/) | [Paper](https://arxiv.org/abs/2503.24026)
 
 
 # News
@@ -28,12 +28,12 @@ Throughout this process, the restored video is used to continuously update the 3
 
 
 
-<!-- ## BibTeX
+## BibTeX
 
 ```bibtex
-@article{wang2025humandreamer,
-  title={HumanDreamer: Generating Controllable Human-Motion Videos via Decoupled Generation}, 
-  author={Boyuan Wang and Xiaofeng Wang and Chaojun Ni and Guosheng Zhao and Zhiqin Yang and Zheng Zhu and Muyang Zhang and Yukun Zhou and Xinze Chen and Guan Huang and Lihong Liu and Xingang Wang},
-  journal={arXiv preprint arXiv:2503.24026},
+@article{wang2025humandreamerx,
+  title={HumanDreamer-X: Photorealistic Single-image Human Avatars Reconstruction via Gaussian Restoration}, 
+  author={Boyuan Wang and Runqi Ouyang and Xiaofeng Wang and Zheng Zhu and Guosheng Zhao and Chaojun Ni and Guan Huang and Lihong Liu and Xingang Wang},
+  journal={arXiv preprint arXiv:2504.03536},
   year={2025}
-} -->
+  }
