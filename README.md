@@ -5,7 +5,7 @@
 </div>
 
  
-## [Project Page](https://humandreamer-x.github.io/) | [Paper](https://arxiv.org/abs/2503.24026)
+## [Project Page](https://humandreamer-x.github.io/) | [Paper](https://arxiv.org/abs/2504.03536)
 
 
 # News
